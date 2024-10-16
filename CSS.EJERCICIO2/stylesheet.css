@@ -1,0 +1,27 @@
+
+#cuerpo{
+    background-color: #38b1cb;
+}
+
+.subtitulo{
+    background-color: blue;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#titulo{
+    text-align: center;
+}
+.rojo{
+    color: red;
+    text-decoration: underline;
+}
+.amarillo{
+    color: yellow;
+}
+.blanco{
+    color: white;
+    background-color: #128aa4;
+}
+#Capacidades{
+    color: white;
+}
